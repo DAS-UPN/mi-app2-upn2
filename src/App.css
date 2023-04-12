@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.estilo {
+  padding: 5px 20px;
+}
+
+.estilo fieldset {
+  margin: 60px 0;
+}
